@@ -1,0 +1,782 @@
+/* media query screen size */
+/* extra small */
+@media (max-width: 575.98px){
+    /* Header section */
+    .header {
+    padding: 15px 10px;
+}
+    .menu ul li {
+    margin: 8px 0px;
+}
+.menu ul li:first-child {
+    margin-top: 25px;
+}
+    /* Header section */
+    /* Banner Section */
+    .banner {
+    min-height: 685px;
+}
+    .banner .squire1 {
+    width: 170px;
+    height: 360px;
+}
+.banner .squire2 {
+    width: 230px;
+    height: 450px;
+    top: 0;
+    right: 0px;
+}
+.banner .heading {
+    margin-top: 10px;
+}
+.heading .quick {
+    padding: 8px 10px 7px 16px;
+}
+.quick span {
+    margin-right: 5px;
+    padding: 3px 20px;
+}
+.heading .heading_text {
+    width: 100%;
+}
+.heading .heading_text h1 {
+    font-size: 37px;
+}
+.heading .heading_text p {
+    margin: 80px 0 20px;
+    padding-right: 0px;
+    font-size: 18px;
+}
+.custom_btn {
+    padding: 15px 20px;
+    font-weight: 500;
+    box-shadow: -2px 2px 0 #094b72d5;
+}
+.heading .brands {
+    margin-top: 60px;
+}
+.heading .brands .box {
+    margin-top: 25px;
+}
+/* Banner Section */
+/* About Section */
+.about {
+    padding: 50px 0;
+}
+.about_text {
+    margin-top: 0px;
+}
+.about_text h2 {
+    font-size: 28px;
+}
+.about_text p {
+    margin-top: 15px;
+    font-size: 18px;
+    line-height: 28px;
+}
+/* About Section */
+/* Counter Section */
+.counter_title h2 {
+    font-size: 28px;
+    font-weight: 700;
+}
+.point h3 {
+    font-size: 28px;
+    font-weight: 700;
+}
+/* Counter Section */
+/* Testimonial Section */
+.testimonial {
+    padding: 28px 0;
+}
+.testimonial h2 {
+    font-size: 28px;
+}
+.reviews {
+    padding: 0 20px;
+}
+.testimonial .client .comments {
+    padding: 20px 15px 25px 15px;
+}
+/* Testimonial Section */
+/* Contact Section */
+.question h2 {
+    font-size: 28px;
+}
+.question p {
+    margin: 15px 0 25px;
+    font-size: 18px;
+    line-height: 28px;
+}
+.call_btn .button {
+    padding: 15px 20px;
+    font-size: 18px;
+    font-weight: 500;
+    box-shadow: -2px 2px 0 #094b72d5;
+}
+.call_btn span {
+    margin-right: 20px;
+    font-size: 18px;
+}
+.question_img {
+    margin-top: 30px;
+}
+/* Contact Section */
+/* Footer Section */
+.footer {
+    padding: 50px 0 0;
+}
+.footer_links {
+    text-align: center;
+}
+.footer_links h4 {
+    margin-bottom: 12px;
+}
+.f_last {
+    margin-top: 30px;
+    padding: 15px 0;
+}
+.copyRight {
+    text-align: center;
+}
+.f_last .creadit {
+    margin: 20px 0;
+}
+.f_last .socials {
+    justify-content: center;
+}
+/* Footer Section */
+}
+/* small */
+@media (min-width: 576px) and (max-width: 767.98px){
+    /* Header section */
+    .header {
+    padding: 15px 10px;
+}
+    .menu ul li {
+    margin: 8px 0px;
+}
+.menu ul li:first-child {
+    margin-top: 25px;
+}
+    /* Header section */
+    /* Banner Section */
+    .banner {
+    min-height: 685px;
+}
+    .banner .squire1 {
+    width: 170px;
+    height: 360px;
+}
+.banner .squire2 {
+    width: 230px;
+    height: 450px;
+    top: 0;
+    right: 0px;
+}
+.banner .heading {
+    margin-top: 10px;
+}
+.heading .quick {
+    padding: 8px 25px 7px 10px;
+}
+.quick span {
+    margin-right: 5px;
+    padding: 3px 25px;
+}
+.heading .heading_text {
+    width: 100%;
+    margin-top: 30px;
+}
+.heading .heading_text h1 {
+    font-size: 56px;
+}
+.heading .heading_text p {
+    margin: 80px 0 20px;
+    padding-right: 0px;
+    font-size: 18px;
+}
+.custom_btn {
+    padding: 15px 20px;
+    font-weight: 500;
+    box-shadow: -2px 2px 0 #094b72d5;
+}
+.heading .brands {
+    margin-top: 60px;
+}
+.heading .brands .box {
+    margin-top: 25px;
+}
+/* Banner Section */
+/* About Section */
+.about {
+    padding: 50px 0;
+}
+.about_text {
+    margin-top: 0px;
+}
+.about_text h2 {
+    font-size: 28px;
+}
+.about_text p {
+    margin-top: 15px;
+    font-size: 18px;
+    line-height: 28px;
+}
+/* About Section */
+/* Counter Section */
+.counter_title h2 {
+    font-size: 28px;
+    font-weight: 700;
+}
+.point h3 {
+    font-size: 28px;
+    font-weight: 700;
+}
+/* Counter Section */
+/* Testimonial Section */
+.testimonial {
+    padding: 28px 0;
+}
+.testimonial h2 {
+    font-size: 28px;
+}
+.reviews {
+    padding: 0 20px;
+}
+.testimonial .client .comments {
+    padding: 20px 15px 25px 15px;
+}
+/* Testimonial Section */
+/* Contact Section */
+.question h2 {
+    font-size: 28px;
+}
+.question p {
+    margin: 15px 0 25px;
+    font-size: 18px;
+    line-height: 28px;
+}
+.call_btn .button {
+    padding: 15px 20px;
+    font-size: 18px;
+    font-weight: 500;
+    box-shadow: -2px 2px 0 #094b72d5;
+}
+.call_btn span {
+    margin-right: 20px;
+    font-size: 18px;
+}
+.question_img {
+    margin-top: 30px;
+}
+/* Contact Section */
+/* Footer Section */
+.footer {
+    padding: 50px 0 0;
+}
+.footer_links {
+    text-align: center;
+}
+.footer_links h4 {
+    margin-bottom: 12px;
+}
+.f_last {
+    margin-top: 30px;
+    padding: 15px 0;
+}
+.copyRight {
+    text-align: center;
+}
+.f_last .creadit {
+    margin: 20px 0;
+}
+.f_last .socials {
+    justify-content: center;
+}
+/* Footer Section */
+}
+/* medium */
+@media (min-width: 768px) and (max-width: 991.98px){
+    /* Header section */
+    .header {
+    padding: 15px 10px;
+}
+    .menu ul li {
+    margin: 8px 0px;
+}
+.menu ul li:first-child {
+    margin-top: 25px;
+}
+    /* Header section */
+    /* Banner Section */
+    .banner {
+    min-height: 685px;
+}
+    .banner .squire1 {
+    width: 230px;
+    height: 460px;
+}
+.banner .squire2 {
+    width: 300px;
+    height: 530px;
+    top: 0;
+    right: 0px;
+}
+.banner .heading {
+    margin-top: 10px;
+}
+.heading .quick {
+    padding: 8px 25px 7px 10px;
+}
+.quick span {
+    margin-right: 5px;
+    padding: 3px 25px;
+}
+.heading .heading_text {
+    width: 100%;
+    margin-top: 60px;
+}
+.heading .heading_text h1 {
+    font-size: 70px;
+}
+.heading .heading_text p {
+    margin: 80px 0 35px;
+    padding-right: 0px;
+    font-size: 20px;
+}
+.custom_btn {
+    padding: 15px 20px;
+    font-weight: 500;
+    box-shadow: -3px 3px 0 #094b72d5;
+}
+.heading .brands {
+    margin: 60px 0 30px;
+}
+.heading .brands .box {
+    margin-top: 25px;
+}
+/* Banner Section */
+/* About Section */
+.about {
+    padding: 50px 0;
+}
+.about_text {
+    margin-top: 0px;
+}
+.about_text h2 {
+    font-size: 40px;
+}
+.about_text p {
+    margin-top: 20px;
+    font-size: 18px;
+    line-height: 28px;
+}
+/* About Section */
+/* Counter Section */
+.counter_title h2 {
+    font-size: 40px;
+    font-weight: 700;
+}
+.counter_title p {
+    margin-top: 20px;
+}
+.point h3 {
+    font-size: 40px;
+    font-weight: 700;
+}
+/* Counter Section */
+/* Testimonial Section */
+.testimonial {
+    padding: 28px 0;
+}
+.testimonial h2 {
+    font-size: 40px;
+}
+.reviews {
+    padding: 0 20px;
+}
+.testimonial .client .comments {
+    padding: 20px 15px 25px 15px;
+}
+/* Testimonial Section */
+/* Contact Section */
+.question h2 {
+    font-size: 40px;
+}
+.question p {
+    margin: 30px 0 25px;
+    font-size: 18px;
+    line-height: 28px;
+}
+.call_btn .button {
+    padding: 15px 20px;
+    font-size: 18px;
+    font-weight: 500;
+    box-shadow: -3px 3px 0 #094b72d5;
+}
+.call_btn span {
+    margin-right: 20px;
+    font-size: 18px;
+}
+.question_img {
+    margin-top: 30px;
+}
+/* Contact Section */
+/* Footer Section */
+.footer {
+    padding: 50px 0 0;
+}
+.footer_links {
+    text-align: center;
+}
+.footer_links h4 {
+    margin-bottom: 12px;
+}
+.f_last {
+    margin-top: 30px;
+    padding: 15px 0;
+}
+.copyRight {
+    text-align: center;
+}
+.f_last .creadit {
+    margin: 20px 0;
+}
+.f_last .socials {
+    justify-content: center;
+}
+/* Footer Section */
+}
+/* large */
+@media (min-width: 992px) and (max-width: 1199.98px){
+    /* Header Section */
+    .large_field {
+    margin-left: 25px;
+}
+    /* Header Section */
+    /* Banner Section */
+    .banner {
+    min-height: 820px;
+}
+    .banner .squire1 {
+    width: 300px;
+    height: 550px;
+}
+.banner .squire2 {
+    width: 400px;
+    height: 660px;
+    top: 0;
+    right: 0px;
+}
+.banner .person {
+    width: 460px;
+    height: 740px;
+    position: absolute;
+    top: 0;
+    right: -14px;
+}
+.banner .heading {
+    margin-top: 80px;
+}
+.heading .quick {
+    padding: 8px 25px 7px 10px;
+}
+.quick span {
+    margin-right: 5px;
+    padding: 3px 25px;
+}
+.heading .heading_text {
+    width: 100%;
+    margin-top: 60px;
+}
+.heading .heading_text h1 {
+    font-size: 70px;
+}
+.heading .heading_text p {
+    margin: 80px 0 35px;
+    padding-right: 370px;
+    font-size: 20px;
+}
+.custom_btn {
+    padding: 15px 20px;
+    font-weight: 500;
+    box-shadow: -3px 3px 0 #094b72d5;
+}
+.heading .brands {
+    margin: 60px 0 30px;
+}
+.heading .brands .box {
+    margin-top: 25px;
+}
+/* Banner Section */
+/* About Section */
+.about {
+    padding: 50px 0;
+}
+.about .name {
+    top: -80px;
+    right: 30px;
+}
+.about_text {
+    margin-top: 0px;
+        height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.about_text h2 {
+    font-size: 40px;
+}
+.about_text p {
+    margin-top: 20px;
+    font-size: 18px;
+    line-height: 28px;
+}
+.boxes {
+    width: 215px;
+    padding: 12px;
+}
+/* About Section */
+/* Counter Section */
+.counter_title h2 {
+    font-size: 40px;
+    font-weight: 700;
+}
+.counter_title p {
+    margin-top: 20px;
+}
+.point h3 {
+    font-size: 40px;
+    font-weight: 700;
+}
+/* Counter Section */
+/* Testimonial Section */
+.testimonial {
+    padding: 28px 0;
+}
+.testimonial h2 {
+    font-size: 40px;
+}
+.reviews {
+    padding: 0 20px;
+}
+.testimonial .client .comments {
+    padding: 20px 15px 25px 15px;
+}
+/* Testimonial Section */
+/* Contact Section */
+.question h2 {
+    font-size: 40px;
+}
+.question p {
+    margin: 30px 0 25px;
+    font-size: 18px;
+    line-height: 28px;
+}
+.call_btn .button {
+    padding: 15px 20px;
+    font-size: 18px;
+    font-weight: 500;
+    box-shadow: -3px 3px 0 #094b72d5;
+}
+.call_btn span {
+    margin-right: 20px;
+    font-size: 18px;
+}
+.question_img {
+    margin-top: 30px;
+}
+/* Contact Section */
+/* Footer Section */
+.footer {
+    padding: 50px 0 0;
+}
+.footer_links {
+    text-align: center;
+}
+.footer_links h4 {
+    margin-bottom: 12px;
+}
+.f_last {
+    margin-top: 30px;
+    padding: 15px 0;
+}
+.copyRight {
+    text-align: center;
+}
+.f_last .creadit {
+    margin: 0;
+}
+.f_last .socials {
+    justify-content: center;
+}
+/* Footer Section */
+}
+/* extra large */
+@media (min-width: 1200px) and (max-width: 1399.98px){
+    /* Header Section */
+    .large_field {
+    margin-left: 80px;
+}
+    /* Header Section */
+    /* Banner Section */
+    .banner {
+    min-height: 820px;
+}
+    .banner .squire1 {
+    width: 720px;
+    height: 800px;
+}
+.banner .squire2 {
+    width: 550px;
+    height: 550px;
+    top: 0;
+    right: 67px;
+}
+.banner .person {
+    width: 530px;
+    height: 804px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.banner .heading {
+    margin-top: 80px;
+}
+.heading .quick {
+    padding: 8px 25px 7px 10px;
+}
+.quick span {
+    margin-right: 5px;
+    padding: 3px 25px;
+}
+.heading .heading_text {
+    width: 760px;
+    margin-top: 60px;
+}
+.heading .heading_text h1 {
+    font-size: 85px;
+}
+.heading .heading_text p {
+    margin: 80px 0 35px;
+    padding-right: 370px;
+    font-size: 20px;
+}
+.custom_btn {
+    padding: 20px 30px;
+    font-weight: 500;
+    box-shadow: -4px 4px 0 #094b72d5;
+}
+.heading .brands {
+    margin: 60px 0 30px;
+}
+.heading .brands .box {
+    margin-top: 25px;
+}
+/* Banner Section */
+/* About Section */
+.about {
+    padding: 50px 0;
+}
+.about .name {
+    top: -80px;
+    right: 80px;
+}
+.about_text {
+    margin-top: 0px;
+        height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.about_text h2 {
+    font-size: 50px;
+}
+.about_text p {
+    margin-top: 20px;
+    font-size: 18px;
+    line-height: 28px;
+}
+.boxes {
+    width: 240px;
+    padding: 20px;
+}
+/* About Section */
+/* Counter Section */
+.counter_title h2 {
+    font-size: 50px;
+    font-weight: 900;
+}
+.counter_title p {
+    margin-top: 20px;
+}
+.point h3 {
+    font-size: 50px;
+    font-weight: 700;
+}
+/* Counter Section */
+/* Testimonial Section */
+.testimonial {
+    padding: 28px 0;
+}
+.testimonial h2 {
+    font-size: 50px;
+}
+.reviews {
+    padding: 0 20px;
+}
+.testimonial .client .comments {
+    padding: 20px 15px 25px 15px;
+}
+/* Testimonial Section */
+/* Contact Section */
+.question h2 {
+    font-size: 50px;
+}
+.question p {
+    margin: 30px 0 25px;
+    font-size: 18px;
+    line-height: 28px;
+}
+.call_btn .button {
+    padding: 20px 30px;
+    font-size: 18px;
+    font-weight: 500;
+    box-shadow: -4px 4px 0 #094b72d5;
+}
+.call_btn span {
+    margin-right: 20px;
+    font-size: 18px;
+}
+.question_img {
+    margin-top: 30px;
+}
+/* Contact Section */
+/* Footer Section */
+.footer {
+    padding: 50px 0 0;
+}
+.footer_links {
+    text-align: center;
+}
+.footer_links h4 {
+    margin-bottom: 12px;
+}
+.f_last {
+    margin-top: 30px;
+    padding: 15px 0;
+}
+.copyRight {
+    text-align: center;
+}
+.f_last .creadit {
+    margin: 0;
+}
+.f_last .socials {
+    justify-content: center;
+}
+/* Footer Section */
+}
+/* extra extra large */
+@media (min-width: 1400px){}
